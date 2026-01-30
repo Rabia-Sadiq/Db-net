@@ -76,4 +76,3 @@ This project implements a deep learning–based vehicle smoke detection system f
 * Edge-device optimization
 
 
-Just tell me ✨
